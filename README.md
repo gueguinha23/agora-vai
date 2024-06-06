@@ -5,4 +5,5 @@
 * comando git commit para deixar as alterações prontas para subir para o repositório. Ou seja "git commit -m (Mensagem apra deixar organizado qual alteração está sendo feita por exemplo: novo titulo).
 * comando git diff para ver as alterações feitas 
 * comando git log para ver quais os commits feitos no repositório.
-* git renmote para saber qual o repositório remoto.
+* comando git renmote para saber qual o repositório remoto.
+* comando git pull
