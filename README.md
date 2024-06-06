@@ -7,5 +7,5 @@
 * comando git diff para ver as alterações feitas/ git diff origin(nome do remote)/main(nome da brench) para saber as diferenças do git do remoto para a brench.
 * comando git log para ver quais os commits feitos no repositório.
 * comando git remote para saber qual o repositório remoto.
-* comando git pull para pegar as informações do remoto e combinar a brench  local.
+* comando git pull para pegar as informações do remoto e combinar com o código  local.
 * comando git fetch checa no repositório remoto tudo que não tem no código local, ideal para saber o que irá entrar na brench ante de dar git pull.
