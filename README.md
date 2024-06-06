@@ -13,5 +13,6 @@
 * comando git log --oneline --decorate; além de ser um git log ele indica em qual branch você está trabalhando.
 * comando git checkout para mudar a branch em que está codando: por exemplo git checkou main (nome da branch em que quero codar).
 * comando git branch para saber quais são as branchs que tem no repositório.
+* coamndo git merge para unificar as ramificações. sempre ir para a branch que você quer que junte a outra.
 * branch são ramificações que podemos ter em nossos cógidos assim cada usuário tera uma vesão até que suba para o repositório online 
 * adicionar o .gitignore quando desejar ignorar alguns arquivos.
