@@ -3,7 +3,8 @@
 * comando git push quando desejar suber as alterações para o respositório online. ou seja "git push origin(nome do remoto)main(nome da brench)"
 * comando git add para as alterações irem para staged. Ou seja git add (nome da pasta)
 * comando git commit para deixar as alterações prontas para subir para o repositório. Ou seja "git commit -m (Mensagem apra deixar organizado qual alteração está sendo feita por exemplo: novo titulo).
-* comando git diff para ver as alterações feitas 
+* comando git status para saber se o git foi modificado ou não.
+* comando git diff para ver as alterações feitas/ git diff origin(nome do remote)/main(nome da brench) para saber as diferenças do git do remoto para a brench.
 * comando git log para ver quais os commits feitos no repositório.
 * comando git remote para saber qual o repositório remoto.
 * comando git pull para pegar as informações do remoto e combinar a brench  local.
