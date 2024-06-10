@@ -16,3 +16,11 @@
 * coamndo git merge para unificar as ramificações. sempre ir para a branch que você quer que junte a outra.
 * branch são ramificações que podemos ter em nossos cógidos assim cada usuário tera uma vesão até que suba para o repositório online 
 * adicionar o .gitignore quando desejar ignorar alguns arquivos.
+* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Comandos para configuração de redes
+* comando ipconfig- para obter informções sobre a rede do computador.
+* comando ipconfig/flushdns- para limpar o cache dns do computador.
+* comando ping (nome do site.dominio dele )- para saber se um site está recebendo os seus comandos.
+* comando dns lookup (nome do site. dominio) - para saber se é um endereço ip que foi retoranado.
+* comando tracert(nome do site.dominio) - para saber por quantos roteadores a informação passa até chegar ao site de destino.
+* comando netstat- para mapear quais portas estão sendo utilizadas no computador.
